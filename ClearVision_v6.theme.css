@@ -1,5 +1,5 @@
 /**
- * @name Valorant Theme
+ * @name Mikey Theme
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -12,15 +12,17 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
 
 :root {
-  --main-color: #6C2E77;
-  --hover-color: #1e63b3;
-  --success-color: #43b581;
+  --main-color: #FFDD16;
+  --hover-color: #8E7F00;
+  --success-color: #E49D01;
   --danger-color: #982929;
-  --url-color: #2196F3;
+  --url-color: #03A9F4;
   --undefined: 0;
-  --background-image: url('https://images3.alphacoders.com/129/1298918.png');
+  --background-image: url('https://wallpapers.com/images/hd/tokyo-revengers-mikey-close-up-yh5v5tv2wfv9gbvv.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -33,20 +35,20 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://wallpapercave.com/wp/wp7821742.jpg');
+  --user-popout-image: url('https://e0.fuel.com/wallpapers/492/660/desktop-wallpaper-mikey-sky-tokyo-revengers-flash-graphy-tokyorevengers-anime-anime.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
-  --user-popout-brightness: 100%;
+  --user-popout-brightness: 77%;
   --user-popout-contrast: 100%;
   --user-popout-saturation: 100%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 0px;
-  --user-modal-image: url('https://images3.alphacoders.com/114/1149777.jpg');
+  --user-modal-image: url('https://wallpapers.com/images/hd/mikey-tokyo-revengers-with-birds-lhthlypdr5mzetue.jpg');
   --user-modal-position: center;
-  --user-modal-size: contain;
+  --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
   --user-modal-attachment: fixed;
   --user-modal-brightness: 100%;
@@ -55,11 +57,11 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 0px;
-  --home-icon: url('https://media.discordapp.net/attachments/987715773717971015/1129101363851297009/valorant-logo.png?width=467&height=467');
+  --home-icon: url('https://tokyorevengers.store/wp-content/uploads/2021/05/Sano-Manjirou-Merch-300x300.png');
   --home-position: center;
   --home-size: 50px;
-  --channel-unread: #161515;
-  --channel-color: rgb(0,39,255,1);
+  --channel-unread: #DD1001;
+  --channel-color: rgb(255,148,7,1);
   --muted-color: rgba(255,255,255,0.1);
   --online-color: #43b581;
   --idle-color: #faa61a;
@@ -68,8 +70,8 @@
   --offline-color: #808080;
   --main-font: gg sans;
   --code-font: Consolas;
-  --channels-width: 220px;
-  --members-width: 240px;
+  --channels-width: 230px;
+  --members-width: 210px;
   --backdrop-overlay: rgba(0,0,0,0.8);
   --backdrop-image: var(--background-image);
   --backdrop-position: var(--background-position);
@@ -86,7 +88,7 @@
   --bd-blue: var(--main-color);
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
-  --rs-small-spacing: 2px;
+  --rs-small-spacing: 0px;
   --rs-medium-spacing: 2px;
   --rs-large-spacing: 2px;
   --rs-small-width: 2px;
