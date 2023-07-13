@@ -1,5 +1,5 @@
 /**
- * @name Mikey-theme
+ * @name Mikey Theme
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -10,6 +10,8 @@
 */
 
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
 
@@ -33,7 +35,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://e0.pxfuel.com/wallpapers/492/660/desktop-wallpaper-mikey-sky-tokyo-revengers-flash-graphy-tokyorevengers-anime-anime.jpg');
+  --user-popout-image: url('https://e0.fuel.com/wallpapers/492/660/desktop-wallpaper-mikey-sky-tokyo-revengers-flash-graphy-tokyorevengers-anime-anime.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -57,7 +59,7 @@
   --user-modal-blur: 0px;
   --home-icon: url('https://tokyorevengers.store/wp-content/uploads/2021/05/Sano-Manjirou-Merch-300x300.png');
   --home-position: center;
-  --home-size: 60px;
+  --home-size: 50px;
   --channel-unread: #DD1001;
   --channel-color: rgb(255,148,7,1);
   --muted-color: rgba(255,255,255,0.1);
@@ -105,3 +107,5 @@
 }
 
 /* Any custom CSS below here */
+
+
