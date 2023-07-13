@@ -1,5 +1,5 @@
 /**
- * @name Mikey theme
+ * @name Mikey-theme
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -10,16 +10,17 @@
 */
 
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
 
 :root {
-  --main-color: #BB160A;
-  --hover-color: #E91E63;
-  --success-color: #43b581;
+  --main-color: #FFDD16;
+  --hover-color: #8E7F00;
+  --success-color: #E49D01;
   --danger-color: #982929;
-  --url-color: var(--main-color);
+  --url-color: #03A9F4;
   --undefined: 0;
-  --background-image: url('https://a-static.besthdwallpaper.com/tokyo-revengers-kazutora-hanemiya-and-keisuke-baji-wallpaper-2560x1440-91251_51.jpg');
+  --background-image: url('https://wallpapers.com/images/hd/tokyo-revengers-mikey-close-up-yh5v5tv2wfv9gbvv.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -32,18 +33,18 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://w0.peakpx.com/wallpaper/179/33/HD-wallpaper-tokyo-revengers-naruto-sky-mikey-smoking-takemichi-draken-anime-rivals-thumbnail.jpg');
+  --user-popout-image: url('https://e0.pxfuel.com/wallpapers/492/660/desktop-wallpaper-mikey-sky-tokyo-revengers-flash-graphy-tokyorevengers-anime-anime.jpg');
   --user-popout-position: center;
-  --user-popout-size: auto;
+  --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
-  --user-popout-brightness: 100%;
+  --user-popout-brightness: 77%;
   --user-popout-contrast: 100%;
   --user-popout-saturation: 100%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 3px;
-  --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-blur: 0px;
+  --user-modal-image: url('https://wallpapers.com/images/hd/mikey-tokyo-revengers-with-birds-lhthlypdr5mzetue.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -53,12 +54,12 @@
   --user-modal-saturation: 100%;
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
-  --user-modal-blur: 3px;
+  --user-modal-blur: 0px;
   --home-icon: url('https://tokyorevengers.store/wp-content/uploads/2021/05/Sano-Manjirou-Merch-300x300.png');
   --home-position: center;
-  --home-size: 50px;
-  --channel-unread: var(--main-color);
-  --channel-color: rgba(255,255,255,0.3);
+  --home-size: 60px;
+  --channel-unread: #DD1001;
+  --channel-color: rgb(255,148,7,1);
   --muted-color: rgba(255,255,255,0.1);
   --online-color: #43b581;
   --idle-color: #faa61a;
@@ -67,8 +68,8 @@
   --offline-color: #808080;
   --main-font: gg sans;
   --code-font: Consolas;
-  --channels-width: 220px;
-  --members-width: 240px;
+  --channels-width: 230px;
+  --members-width: 210px;
   --backdrop-overlay: rgba(0,0,0,0.8);
   --backdrop-image: var(--background-image);
   --backdrop-position: var(--background-position);
@@ -85,6 +86,19 @@
   --bd-blue: var(--main-color);
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
+  --rs-small-spacing: 0px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
   --columns: 1;
   --guildgap: 3;
   --aligndms: 0;
