@@ -1,5 +1,5 @@
 /**
- * @name Mikey Theme
+ * @name Mikey theme
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -14,10 +14,12 @@
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
 
 :root {
-  --main-color: #FFDD16;
-  --hover-color: #8E7F00;
+  --main-color: #FFD700;
+  --hover-color: #FF8C00;
   --success-color: #E49D01;
   --danger-color: #982929;
   --url-color: #03A9F4;
@@ -58,7 +60,7 @@
   --user-modal-invert: 0%;
   --user-modal-blur: 0px;
   --home-icon: url('https://tokyorevengers.store/wp-content/uploads/2021/05/Sano-Manjirou-Merch-300x300.png');
-  --home-position: center;
+  --home-position: top left;
   --home-size: 50px;
   --channel-unread: #DD1001;
   --channel-color: rgb(255,148,7,1);
