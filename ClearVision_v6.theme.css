@@ -7,7 +7,7 @@
   --danger-color: #880808;
   --url-color: #2196F3;
   --undefined: 0;
-  --background-image: url('https://media.discordapp.net/attachments/987715772178653244/1134171257072521256/IMG_0876.jpeg?width=893&height=464');
+  --background-image: url('https://media.discordapp.net/attachments/1143312846948671548/1143321919496655010/692091.png?width=736&height=460');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -20,7 +20,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgb(0,0,0,0);
-  --user-popout-image: url('https://media.discordapp.net/attachments/987715772178653244/1134171270909534298/IMG_0878.jpeg?width=261&height=464');
+  --user-popout-image: url('https://images.alphacoders.com/600/600984.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -31,7 +31,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 0px;
-  --user-modal-image: url('https://media.discordapp.net/attachments/987715772178653244/1134171250453905470/IMG_0877.jpeg?width=824&height=464');
+  --user-modal-image: url('https://wallpaperaccess.com/full/443954.png');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -42,7 +42,7 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 0px;
-  --home-icon: url('https://media.discordapp.net/attachments/987715772178653244/1134464709089837126/power.png?width=465&height=464');
+  --home-icon: url('https://steamuserimages-a.akamaihd.net/ugc/866230113345056580/3F60E8234B7156AD77E7D61080FB221EB779EC24/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true');
   --home-position: center;
   --home-size: 50px;
   --channel-unread: #FF0000;
