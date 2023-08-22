@@ -56,7 +56,7 @@
   --main-font: gg sans;
   --code-font: Consolas;
   --channels-width: 240px;
-  --members-width: 240px;
+  --members-width: 220px;
   --backdrop-overlay: rgba(0,0,0,0.8);
   --backdrop-image: var(--background-image);
   --backdrop-position: var(--background-position);
@@ -79,7 +79,7 @@
   --rs-small-width: 2px;
   --rs-medium-width: 2px;
   --rs-large-width: 2px;
-  --rs-avatar-shape: 50%;
+  --rs-avatar-shape: 100%;
   --rs-online-color: #43b581;
   --rs-idle-color: #faa61a;
   --rs-dnd-color: #f04747;
