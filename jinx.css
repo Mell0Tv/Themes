@@ -1,0 +1,45 @@
+@import url('https://maendisease.github.io/Solana/Solana.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+
+:root {
+  --accent-hue: 20;
+  --accent-saturation: 100%;
+  --accent-brightness: 50%;
+  --background-accent-hue: 213;
+  --background-accent-saturation: 100%;
+  --background-accent-brightness: 50%;
+  --background-image: url('https://images.hdqwalls.com/wallpapers/league-of-legends-jinx-4k-73.jpg');
+  --window-background-image: initial;
+  --window-background-image-position: center;
+  --window-background-image-size: cover;
+  --window-background-image-attachment: fixed;
+  --window-opacity: 0%;
+  --window-blur: 0;
+  --window-friends-blur: 0;
+  --window-margin: 0;
+  --window-margin-left: 0;
+  --window-border-radius: 0px;
+  --window-background-lightness: 0;
+  --window-accent-tint-strength: 0%;
+  --chat-bubble: 0;
+  --text-link-hue: 210;
+  --chat-text-brightness: 1;
+  --home-icon: url('https://media.discordapp.net/attachments/1143312846948671548/1143340192439226430/wp10832341.png?width=259&height=460');
+  --favorites-icon: initial;
+  --dock-blur: 0; /* Blur intensity of the dock. */
+  --dock-border-radius: 1;
+  --sidebar-width: 230px;
+  --members-width: 240px;
+  --sidebar-text-brightness: 10;
+  --background-floating-blur: 0px;
+  --floating-background-lightness: -1;
+  --background-floating-opacity: 0;
+  --enable-floating-transparency: 1;
+  --custom-font-display: "";
+  --custom-font-regular: "";
+  --custom-font-primary: "";
+  --custom-font-code: "";
+  --enable-blur: 1;
+}
